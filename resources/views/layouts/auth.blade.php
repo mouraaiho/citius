@@ -118,7 +118,7 @@
 <script type="text/javascript" src="{{ asset('plugins/pnotify/js/jquery.pnotify.min.js') }}"></script>
 
 <script type="text/javascript" src="{{ asset('js/theme.js') }}"></script>
-<script type="text/javascript" src="custom/custom.js') }}"></script>
+<script type="text/javascript" src="{{ asset('custom/custom.js') }}"></script>
  
 </body>
 </html>
